@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLearning", "CSharpLearning\CSharpLearning.csproj", "{30BC249C-0DBB-45BE-93F1-122DC93D96BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study", "Study\Study.csproj", "{A322B3E2-C2E3-45EB-BEC0-4ABAC83F6061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BC249C-0DBB-45BE-93F1-122DC93D96BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BC249C-0DBB-45BE-93F1-122DC93D96BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BC249C-0DBB-45BE-93F1-122DC93D96BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BC249C-0DBB-45BE-93F1-122DC93D96BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A322B3E2-C2E3-45EB-BEC0-4ABAC83F6061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A322B3E2-C2E3-45EB-BEC0-4ABAC83F6061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A322B3E2-C2E3-45EB-BEC0-4ABAC83F6061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A322B3E2-C2E3-45EB-BEC0-4ABAC83F6061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D31A611-4CC8-45F6-A975-D8EE70D4CAFD}
+	EndGlobalSection
+EndGlobal
